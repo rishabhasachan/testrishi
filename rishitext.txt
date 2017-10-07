@@ -1,0 +1,2 @@
+my name is rishi 
+i am learning git throught command line
