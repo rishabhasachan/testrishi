@@ -7,10 +7,6 @@
  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<p>
-Video courtesy of 
-<a href="https://www.bigbuckbunny.org/" target="_blank">Big Buck Bunny</a>.
-</p>
 
 </body> 
 </html>
